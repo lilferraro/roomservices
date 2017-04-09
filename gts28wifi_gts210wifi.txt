@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+  <project name="LineageOS/android_device_samsung_gts28wifi" path="device/samsung/gts28wifi" remote="github" revision="cm-14.1" />
+  <project name="LineageOS/android_device_samsung_gts210wifi" path="device/samsung/gts210wifi" remote="github" revision="cm-14.1" />
+  <project name="TheMuppets/proprietary_vendor_samsung" path="vendor/samsung" remote="github" revision="cm-14.1" />
+  <project name="LineageOS/android_kernel_samsung_gts2" path="kernel/samsung/gts2" remote="github" revision="cm-14.1" />
+  <project name="ripee/android_device_samsung_gts2-common" path="device/samsung/gts2-common" remote="github" revision="cm-14.1" />
+  <project name="LineageOS/android_external_stlport" path="external/stlport" remote="github" revision="cm-14.1" />
+  <project name="LineageOS/android_hardware_samsung" path="hardware/samsung" remote="github" revision="cm-14.1" />
+  <project name="LineageOS/android_hardware_samsung_slsi-cm_exynos" path="hardware/samsung_slsi-cm/exynos" remote="github" revision="cm-14.1" />
+  <project name="LineageOS/android_hardware_samsung_slsi-cm_exynos5" path="hardware/samsung_slsi-cm/exynos5" remote="github" revision="cm-14.1" />
+  <project name="LineageOS/android_hardware_samsung_slsi-cm_exynos5433" path="hardware/samsung_slsi-cm/exynos5433" remote="github" revision="cm-14.1" />
+  <project name="LineageOS/android_hardware_samsung_slsi-cm_openmax" path="hardware/samsung_slsi-cm/openmax" remote="github" revision="cm-14.1" />
+  <remove-project name="LineageOS/android_packages_inputmethods_LatinIME" />
+  <project name="underscoremone/android_packages_inputmethods_LatinIME" path="packages/inputmethods/LatinIME" remote="github" revision="_cm-14.1" />
+</manifest>
