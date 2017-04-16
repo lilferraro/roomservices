@@ -11,6 +11,4 @@
   <project name="LineageOS/android_packages_apps_FlipFlap" path="packages/apps/FlipFlap" remote="github" revision="cm-14.1" />
   <project name="LineageOS/android_hardware_sony_timekeep" path="hardware/sony/timekeep" remote="github" revision="cm-14.1" />
   <project name="LineageOS/android_hardware_samsung" path="hardware/samsung" remote="github" revision="cm-14.1" />
-  <remove-project name="LineageOS/android_packages_inputmethods_LatinIME" />
-  <project name="underscoremone/android_packages_inputmethods_LatinIME" path="packages/inputmethods/LatinIME" remote="github" revision="_cm-14.1" />
 </manifest>
