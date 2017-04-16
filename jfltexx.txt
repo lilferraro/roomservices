@@ -7,6 +7,4 @@
   <project name="LineageOS/android_external_stlport" path="external/stlport" remote="github" revision="cm-14.1" />
   <project name="LineageOS/android_kernel_samsung_jf" path="kernel/samsung/jf" remote="github" revision="cm-14.1" />
   <project name="TheMuppets/proprietary_vendor_samsung" path="vendor/samsung" remote="github" revision="cm-14.1" />
-  <remove-project name="LineageOS/android_packages_inputmethods_LatinIME" />
-  <project name="underscoremone/android_packages_inputmethods_LatinIME" path="packages/inputmethods/LatinIME" remote="github" revision="_cm-14.1" />
 </manifest>
