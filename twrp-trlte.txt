@@ -1,4 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<manifest>
-  <project name="underscoremone/android_device_samsung_trlte" path="device/samsung/trlte" remote="github" revision="android-6.0" />
-</manifest>
